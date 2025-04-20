@@ -1,16 +1,23 @@
-## Hi there 👋
+My name is Suraj Pathak.
+I am passionate and results-driven Data Analytics professional with 13+ years of global IT consulting experience, specializing in Data Engineering, Clinical SAS Programming, Healthcare Analytics, and Cloud Migration initiatives.
 
-<!--
-**spath1986/spath1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With over 3+ years of technical leadership, I have successfully led cross-functional teams including Developers, Scrum Masters, Product Owners, and BAs to deliver data-driven, cloud-first solutions that create measurable business impact.
 
-Here are some ideas to get you started:
+Core Competencies:
+1.End-to-end SAS programming for healthcare data analytics, including TLF generation, SDTM/ADaM conversion, and clinical reporting.
+2.ETL development, data quality checks, and automation of manual data workflows.
+3.Migrating on-prem SAS workloads to Azure Databricks/PySpark, significantly improving performance and reducing infrastructure cost.
+4.Expertise in Azure Data Factory (ADF), ADLS Gen2, Snowflake, and Terraform for modern cloud-native data solutions.
+5.Strong knowledge of DevOps, Agile/Scrum, and tools like Jenkins, Git, Azure DevOps, and Log Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Key Skills & Tools:
+1.Programming & Data: SAS (Studio, EG, Grid 9.4), PySpark, SQL, Spark (Scala), Power BI
+2.Databases: Oracle, Teradata, SQL Server, DB2, Snowflake
+3.Cloud Platforms: Azure (Databricks, ADF, ADLS Gen2, Terraform), Microsoft Fabric
+4.Tools & Methodologies: Rally, Jira, Miro, Smartsheet, Lucidchart, StarChapter, OsTicket
+5.DevOps/CI-CD: Jenkins, GitHub, Docker, Azure DevOps
+6.Documentation & Testing: HPQC, ITSM, MS Office, Excel
+
+I’m actively seeking opportunities in Data Analytics, Clinical SAS, Azure Cloud, or Project Coordination roles across Healthcare, Financial Services, or Technology sectors in Canada.
+
+Let’s connect if you’re looking for someone who can bridge the gap between legacy systems and modern cloud analytics while leading teams, improving data pipelines, and delivering real business value.
