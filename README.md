@@ -1,4 +1,4 @@
-I am passionate and results-driven Data Analytics professional with 13+ years of global IT consulting experience, specializing in Data Engineering, Clinical SAS Programming, Healthcare Analytics, and Cloud Migration initiatives.
+I am passionate and results-driven certified Data Analytics professional with 13+ years of global IT consulting experience, specializing in Data Engineering, Clinical SAS Programming, Healthcare Analytics, and Cloud Migration initiatives.
 
 With over 3+ years of technical leadership, I have successfully led cross-functional teams including Developers, Scrum Masters, Product Owners, and BAs to deliver data-driven, cloud-first solutions that create measurable business impact.
 
@@ -17,6 +17,6 @@ Key Skills & Tools:
 5.DevOps/CI-CD: Jenkins, GitHub, Docker, Azure DevOps
 6.Documentation & Testing: HPQC, ITSM, MS Office, Excel
 
-I’m actively seeking opportunities in Data Analytics, Clinical SAS, Azure Cloud, or Project Coordination roles across Healthcare, Financial Services, or Technology sectors in Canada.
+I am actively seeking opportunities in Data Analytics, Clinical SAS, Azure Cloud, or Project Coordination roles across Healthcare, Financial Services, or Technology sectors in Canada.
 
 Let’s connect if you’re looking for someone who can bridge the gap between legacy systems and modern cloud analytics while leading teams, improving data pipelines, and delivering real business value.
