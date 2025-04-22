@@ -16,7 +16,3 @@ Key Skills & Tools:
 4.Tools & Methodologies: Rally, Jira, Miro, Smartsheet, Lucidchart, StarChapter, OsTicket
 5.DevOps/CI-CD: Jenkins, GitHub, Docker, Azure DevOps
 6.Documentation & Testing: HPQC, ITSM, MS Office, Excel
-
-I am actively seeking opportunities in Data Analytics, Clinical SAS, Azure Cloud, or Project Coordination roles across Healthcare, Financial Services, or Technology sectors in Canada.
-
-Let’s connect if you’re looking for someone who can bridge the gap between legacy systems and modern cloud analytics while leading teams, improving data pipelines, and delivering real business value.
