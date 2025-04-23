@@ -1,4 +1,4 @@
-I am passionate and results-driven certified Data Analytics professional with 13+ years of global IT consulting experience, specializing in Data Engineering, Clinical SAS Programming, Healthcare Analytics, and Cloud Migration initiatives.
+I am passionate and results-driven certified Data Analytics professional with 13+ years of global IT consulting experience, specializing in Data Engineering, SAS Programming, Healthcare Analytics, and Cloud Migration initiatives.
 
 With over 3+ years of technical leadership, I have successfully led cross-functional teams including Developers, Scrum Masters, Product Owners, and BAs to deliver data-driven, cloud-first solutions that create measurable business impact.
 
