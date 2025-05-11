@@ -15,4 +15,4 @@ Key Skills & Tools:
 3.Cloud Platforms: Azure (Databricks, ADF, ADLS Gen2, Terraform), Microsoft Fabric
 4.Tools & Methodologies: Rally, Jira, Miro, Smartsheet, Lucidchart, StarChapter, OsTicket
 5.DevOps/CI-CD: Jenkins, GitHub, Docker, Azure DevOps
-6.Documentation & Testing: HPQC, ITSM, MS Office, Excel
+6.Documentation & Testing: HPQC, ITSM, MS Office, Excel.
