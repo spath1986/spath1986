@@ -7,7 +7,7 @@ Core Competencies:
 2.ETL development, data quality checks, and automation of manual data workflows.
 3.Migrating on-prem SAS workloads to Azure Databricks/PySpark, significantly improving performance and reducing infrastructure cost.
 4.Expertise in Azure Data Factory (ADF), ADLS Gen2, Snowflake, and Terraform for modern cloud-native data solutions.
-5.Strong knowledge of DevOps, Agile/Scrum, and tools like Jenkins, Git, Azure DevOps, and Log Analytics.
+5.Strong knowledge of DevOps, Agile/Scrum, and tools like Jenkins, Git,Azure DevOps, and Log Analytics.
 
 Key Skills & Tools:
 1.Programming & Data: SAS (Studio, EG, Grid 9.4), PySpark, SQL, Spark (Scala), Power BI
