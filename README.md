@@ -1,6 +1,6 @@
-I am passionate and results-driven certified Data Analytics professional with 13+ years of global IT consulting experience, specializing in Data Engineering, SAS Programming, Healthcare Analytics, and Cloud Migration initiatives.
+I am passionate and results-driven certified Data Analytics professional with experience in global IT consulting experience, specializing in Data Engineering, SAS Programming, Healthcare Analytics, and Cloud Migration initiatives.
 
-With over 5+ years of technical leadership, I have successfully led cross-functional teams including Developers, Scrum Masters, Product Owners, and BAs to deliver data-driven, cloud-first solutions that create measurable business impact.
+I have successfully led cross-functional teams including Developers, Scrum Masters, Product Owners, and BAs to deliver data-driven, cloud-first solutions that create measurable business impact.
 
 Core Competencies:
 1.End-to-end SAS programming for healthcare data analytics, including TLF generation, SDTM/ADaM conversion, and clinical reporting.
@@ -10,7 +10,7 @@ Core Competencies:
 5.Strong knowledge of DevOps, Agile/Scrum, and tools like Jenkins, Git,Azure DevOps, and Log Analytics.
 
 Key Skills & Tools:
-1.Programming & Data: SAS (Studio, EG, Grid 9.4), PySpark, SQL, Spark (Scala), Power BI
+1.Programming & Data Analysis: SAS (Studio, EG, Grid 9.4), PySpark, SQL, Spark (Scala), Power BI
 2.Databases: Oracle, Teradata, SQL Server, DB2, Snowflake
 3.Cloud Platforms: Azure (Databricks, ADF, ADLS Gen2, Terraform), Microsoft Fabric
 4.Tools & Methodologies: Rally, Jira, Miro, Smartsheet, Lucidchart, StarChapter, OsTicket
