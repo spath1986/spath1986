@@ -3,7 +3,7 @@ I am passionate and results-driven certified Data Analytics professional with ex
 I have successfully led cross-functional teams including Developers, Scrum Masters, Product Owners, and BAs to deliver data-driven, cloud-first solutions that create measurable business impact.
 
 Core Competencies:
-1.End-to-end SAS programming for healthcare data analytics, including TLF generation, SDTM/ADaM conversion, and clinical reporting.
+1.End-to-end SAS programming for healthcare data analytics and clinical reporting.
 2.ETL development, data quality checks, and automation of manual data workflows.
 3.Migrating on-prem SAS workloads to Azure Databricks/PySpark, significantly improving performance and reducing infrastructure cost.
 4.Expertise in Azure Data Factory (ADF), ADLS Gen2, Snowflake, and Terraform for modern cloud-native data solutions.
