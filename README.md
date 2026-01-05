@@ -1,4 +1,4 @@
-I am a Senior Data Engineer and Analytics Engineer with 13+ years of experience designing, modernizing, and operating enterprise-scale data platforms. For much of my career, I have worked in large, regulated environments most recently supporting Fortune 500 healthcare organizations where data reliability, performance, and governance are non-negotiable.
+I am a Data and Analytics Engineer with experience in designing, modernizing, and operating enterprise-scale data platforms. For much of my career, I have worked in large, regulated environments most recently supporting Fortune 500 healthcare organizations where data reliability, performance, and governance are non-negotiable.
 
 My core expertise lies in modernizing legacy on-premise and Big Data platforms into Azure-based lakehouse architectures using Azure Databricks, Azure Data Factory, and ADLS Gen2. I have led end-to-end cloud migration initiatives, re-platformed 60+ batch pipelines, and implemented medallion (bronze/silver/gold) architectures to enable scalable analytics and trusted reporting.
 
